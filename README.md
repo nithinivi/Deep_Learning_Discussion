@@ -1,1 +1,1 @@
-# Deep_Learning_Dissucssions
+# Deep_Learning_Discussions
